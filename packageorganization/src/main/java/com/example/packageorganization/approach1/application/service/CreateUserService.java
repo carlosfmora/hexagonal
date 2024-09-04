@@ -1,9 +1,9 @@
-package com.example.packagestructure.approach1.application.service;
+package com.example.packageorganization.approach1.application.service;
 
-import com.example.packagestructure.approach1.application.CreateUserCommand;
-import com.example.packagestructure.approach1.application.port.in.CreateUserUseCase;
-import com.example.packagestructure.approach1.application.port.out.CreateUserPort;
-import com.example.packagestructure.approach1.domain.User;
+import com.example.packageorganization.approach1.application.CreateUserCommand;
+import com.example.packageorganization.approach1.application.port.in.CreateUserUseCase;
+import com.example.packageorganization.approach1.application.port.out.CreateUserPort;
+import com.example.packageorganization.approach1.domain.User;
 import org.springframework.stereotype.Service;
 
 import java.util.UUID;

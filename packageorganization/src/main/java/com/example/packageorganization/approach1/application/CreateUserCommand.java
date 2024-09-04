@@ -1,4 +1,4 @@
-package com.example.packagestructure.approach1.application;
+package com.example.packageorganization.approach1.application;
 
 public class CreateUserCommand {
     private final int documentNumber;

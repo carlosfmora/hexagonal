@@ -1,8 +1,8 @@
-package com.example.packagestructure.approach1.adapter.out;
+package com.example.packageorganization.approach1.adapter.out;
 
-import com.example.packagestructure.approach1.application.port.out.CountAllUserPort;
-import com.example.packagestructure.approach1.application.port.out.CreateUserPort;
-import com.example.packagestructure.approach1.domain.User;
+import com.example.packageorganization.approach1.application.port.out.CountAllUserPort;
+import com.example.packageorganization.approach1.application.port.out.CreateUserPort;
+import com.example.packageorganization.approach1.domain.User;
 import org.springframework.stereotype.Component;
 
 import java.util.LinkedHashMap;

@@ -1,13 +1,13 @@
-package com.example.packagestructure;
+package com.example.packageorganization;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PackagestructureApplication {
+public class PackageorganizationApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PackagestructureApplication.class, args);
+        SpringApplication.run(PackageorganizationApplication.class, args);
     }
 
 }

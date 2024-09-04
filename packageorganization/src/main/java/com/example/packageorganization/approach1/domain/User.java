@@ -1,4 +1,4 @@
-package com.example.packagestructure.approach1.domain;
+package com.example.packageorganization.approach1.domain;
 
 import java.util.UUID;
 

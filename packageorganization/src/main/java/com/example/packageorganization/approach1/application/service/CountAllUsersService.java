@@ -1,7 +1,7 @@
-package com.example.packagestructure.approach1.application.service;
+package com.example.packageorganization.approach1.application.service;
 
-import com.example.packagestructure.approach1.application.port.in.CountAllUserQuery;
-import com.example.packagestructure.approach1.application.port.out.CountAllUserPort;
+import com.example.packageorganization.approach1.application.port.in.CountAllUserQuery;
+import com.example.packageorganization.approach1.application.port.out.CountAllUserPort;
 import org.springframework.stereotype.Service;
 
 @Service

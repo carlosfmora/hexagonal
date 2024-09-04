@@ -1,7 +1,7 @@
-package com.example.packagestructure.approach1.adapter.in;
+package com.example.packageorganization.approach1.adapter.in;
 
 
-import com.example.packagestructure.approach1.application.port.in.CountAllUserQuery;
+import com.example.packageorganization.approach1.application.port.in.CountAllUserQuery;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
