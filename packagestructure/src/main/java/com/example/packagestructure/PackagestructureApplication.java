@@ -1,13 +1,13 @@
-package com.example.hexagonal;
+package com.example.packagestructure;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HexagonalApplication {
+public class PackagestructureApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(HexagonalApplication.class, args);
+        SpringApplication.run(PackagestructureApplication.class, args);
     }
 
 }
