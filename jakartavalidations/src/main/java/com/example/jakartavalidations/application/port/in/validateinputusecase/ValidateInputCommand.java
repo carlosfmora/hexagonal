@@ -2,7 +2,7 @@ package com.example.jakartavalidations.application.port.in.validateinputusecase;
 
 import com.example.jakartavalidations.application.port.in.validateinputusecase.validators.ValidIntegerList;
 import com.example.jakartavalidations.application.port.in.validateinputusecase.validators.ValidSimpleObjectVO;
-import com.example.jakartavalidations.domain.AggregatedObject;
+import com.example.jakartavalidations.domain.aggregatedobject.AggregatedObject;
 import com.example.jakartavalidations.domain.SimpleObjectVO;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;

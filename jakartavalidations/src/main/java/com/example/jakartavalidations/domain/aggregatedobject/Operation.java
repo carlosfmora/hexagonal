@@ -1,4 +1,4 @@
-package com.example.jakartavalidations.domain;
+package com.example.jakartavalidations.domain.aggregatedobject;
 
 public class Operation {
     private final String operation;

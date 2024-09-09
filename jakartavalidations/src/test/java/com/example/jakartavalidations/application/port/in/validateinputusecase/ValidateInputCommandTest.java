@@ -1,6 +1,6 @@
 package com.example.jakartavalidations.application.port.in.validateinputusecase;
 
-import com.example.jakartavalidations.domain.AggregatedObject;
+import com.example.jakartavalidations.domain.aggregatedobject.AggregatedObject;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.ConstraintViolationException;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.example.jakartavalidations.application.port.in.validateinputusecase.validators;
+package com.example.jakartavalidations.domain.aggregatedobject;
 
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;

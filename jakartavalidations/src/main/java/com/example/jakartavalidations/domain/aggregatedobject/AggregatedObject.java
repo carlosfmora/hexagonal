@@ -1,7 +1,5 @@
-package com.example.jakartavalidations.domain;
+package com.example.jakartavalidations.domain.aggregatedobject;
 
-import com.example.jakartavalidations.application.port.in.validateinputusecase.validators.ValidObjectCorrelation;
-import com.example.jakartavalidations.application.port.in.validateinputusecase.validators.ValidOperation;
 import jakarta.validation.constraints.NotNull;
 
 @ValidObjectCorrelation
